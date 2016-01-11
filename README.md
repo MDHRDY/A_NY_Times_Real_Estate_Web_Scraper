@@ -3,7 +3,8 @@ Currently, this program will scrape listings prices of current properties (more 
 
 <pre><code>python nytimes_listings.py</code></pre>
 
-For the program to work, the last three characters in the url must be 'p=1, as shown in the image below: 
+For the program to work, the last three characters in the url must be 'p=1', as shown in the image below: 
 
-![image of nytimes website with desired url]
-(
+![Image of nytimes website](https://cloud.githubusercontent.com/assets/16641405/12241734/a83352ac-b849-11e5-9755-50e662099980.png)
+
+If your url does not currently end with 'p=1', use the 'Sort By' function, as shown in the image above. This will generate a new url that ends with 'p=1'.
