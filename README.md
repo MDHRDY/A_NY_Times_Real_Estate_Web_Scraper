@@ -22,4 +22,4 @@ If your url does not currently end with 'p=1', use the 'Sort By' function, as sh
 
 ### System Requirements###
 The program uses the 'requests' and 'beautifulsoup' packages, which are both available in the [Anaconda] (https://www.continuum.io/downloads) distribution.  
-Python 2.7.11 [Anaconda 2.3.0]
+Python 2.7.11 [Anaconda 2.3.0] or later will do
