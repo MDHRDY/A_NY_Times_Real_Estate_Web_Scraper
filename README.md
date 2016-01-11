@@ -1,5 +1,5 @@
 # Scrape data from the New York Times's real estate section
-Currently, this program will scrape listings prices of current properties (more features coming soon!) - based upon your search criteria - and output the data in csv format. Head to the [New York Times real estate section] (http://www.nytimes.com/pages/realestate/index.html?action=click&pgtype=Homepage&region=TopBar&module=HPMiniNav&contentCollection=Real%20Estate&WT.nav=page) and enter in a neighbord, city or state and any desired price, bed, bath constraints. 
+Currently, this program will scrape the listing prices of current properties (more features coming soon!) - based upon your search criteria - and output the data in csv format. Head to the [New York Times real estate section] (http://www.nytimes.com/pages/realestate/index.html?action=click&pgtype=Homepage&region=TopBar&module=HPMiniNav&contentCollection=Real%20Estate&WT.nav=page) and enter in a neighbord, city or state and any desired price, bed, bath constraints. 
 
 ###Run:###
 To run this program, copy and paste the url into the python code and type the following into the command line:
