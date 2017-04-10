@@ -1,5 +1,7 @@
 # Scrape data from the New York Times's real estate section
-This program scrapes the listing price, # of beds, # of baths, latitude, longitude, neighborhood name and the address of current properties listings - based upon your search criteria - and outputs data in csv format. Head to the [New York Times real estate section] (http://www.nytimes.com/pages/realestate/index.html?action=click&pgtype=Homepage&region=TopBar&module=HPMiniNav&contentCollection=Real%20Estate&WT.nav=page) and enter in a neighbord, city or state:
+This program scrapes the listing price, # of beds, # of baths, latitude, longitude, neighborhood name and the address of current properties listings - based upon your search criteria - and outputs data in csv format. Head to the [New York Times real estate section] 
+(https://www.nytimes.com/real-estate/homes-for-sale/)
+(http://www.nytimes.com/pages/realestate/index.html?action=click&pgtype=Homepage&region=TopBar&module=HPMiniNav&contentCollection=Real%20Estate&WT.nav=page) and enter in a neighbord, city or state:
 
 <br></br>
 
@@ -9,7 +11,7 @@ This program scrapes the listing price, # of beds, # of baths, latitude, longitu
 
 Note that after entering a location and clicking 'See Available Homes', there are some additional filtering tools, such as 'Open House', 'Reduced', and 'ADAVANCED FILTERS' (See next image).
 
-###Run:###
+### Run:
 To run this program, copy and paste the url into the python code and type the following into the command line:
 
 <pre><code>python nytimes_listings.py</code></pre>
