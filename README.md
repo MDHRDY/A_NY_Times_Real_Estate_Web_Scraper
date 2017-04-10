@@ -1,6 +1,5 @@
 # Scrape data from the New York Times's real estate section
-This program scrapes the listing price, # of beds, # of baths, latitude, longitude, neighborhood name and the address of current properties listings - based upon your search criteria - and outputs data in csv format. Head to the New York Times real estate section 
-(https://www.nytimes.com/real-estate/homes-for-sale/) and enter in a neighbord, city or state:
+This program scrapes the listing price, number of beds, number of baths, latitude, longitude, neighborhood name, and the address of current properties listings - based upon your search criteria - and outputs data in csv format. Head to the [New York Times real estate section](https://www.nytimes.com/real-estate/homes-for-sale/) and enter in a neighborhood, city or state:
 
 <br></br>
 
