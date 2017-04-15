@@ -54,7 +54,7 @@ class single_web_page (object):
 
         
     def transform_data(self):
-        """ Clean data for each listing and append result into 'housing data' """
+        """ Clean data for each listing and append result into 'housing_data' """
         housing_data = []
         for i in range(len(self.prices_html) ):
             listing = []
