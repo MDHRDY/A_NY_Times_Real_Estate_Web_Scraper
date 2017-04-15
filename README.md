@@ -16,7 +16,7 @@ To run this program, copy and paste the url into the python code and type the fo
 
 For the program to work, the last three characters in the url must be 'p=1', as shown in the image below: 
 
-![Image2 of nytimes website](https://cloud.githubusercontent.com/assets/16641405/12249211/13997f7a-b873-11e5-9c27-99ae1ed09a04.png)
+![Image2 of nytimes website](https://github.com/MDHRDY/A_NY_Times_Real_Estate_Web_Scraper/blob/master/real_estate_search.png)
 
 If your url does not currently end with 'p=1', use the 'Sort By' function, as shown above. This will generate a new url that ends with 'p=1'.
 
