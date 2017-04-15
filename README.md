@@ -21,5 +21,5 @@ For the program to work, the last three characters in the url must be 'p=1', as 
 If your url does not currently end with 'p=1', use the 'Sort By' function, as shown above. This will generate a new url that ends with 'p=1'.
 
 ### System Requirements
-The program uses the 'requests' and 'beautifulsoup' packages, which are both available in the [Anaconda] (https://www.continuum.io/downloads) distribution.  
+The program uses the 'requests' and 'beautifulsoup' packages, which are both available in the [Anaconda](https://www.continuum.io/downloads) distribution.  
 Python 2.7.11 [Anaconda 2.3.0] or later will do
