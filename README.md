@@ -10,15 +10,15 @@ This program scrapes the listing price, number of beds, number of baths, latitud
 Note that after entering a location and clicking 'See Available Homes', there are some additional filtering tools, such as 'Open House', 'Reduced', and 'ADAVANCED FILTERS' (See next image).
 
 ### Run:
-To run this program, copy and paste the url into the python code and type the following into the command line:
+To run this program, run the following command at the command line:
 
-<pre><code>python nytimes_listings.py</code></pre>
+<pre><code>python nytimes_v2.py</code></pre>
 
-For the program to work, the last three characters in the url must be 'p=1', as shown in the image below: 
+After the script begins, it will prompt you for a url. Copy and paste a url from the nytimes web page into the command prompt, and the scraper will pull listings of the web and output data into the directory where the nytimes_v2 script is locates. For the program to work, the last four characters of the url must end with '-asc' or 'desc'. Please see url in the following picture. 
 
 ![Image2 of nytimes website](https://github.com/MDHRDY/A_NY_Times_Real_Estate_Web_Scraper/blob/master/real_estate_search.png)
 
-If your url does not currently end with 'p=1', use the 'Sort By' function, as shown above. This will generate a new url that ends with 'p=1'.
+If your url does not currently end with '-asc' or '-desc', use the 'Sort By' function, as shown above. This will generate a new url with the correct tail. If 'p', '&p', or '&p=' (plus a number) follows the '-asc' or 'desc' tail, the script will also hande these tails.
 
 ### System Requirements
 The program uses the 'requests' and 'beautifulsoup' packages, which are both available in the [Anaconda](https://www.continuum.io/downloads) distribution.  
