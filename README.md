@@ -3,7 +3,7 @@ This program scrapes the listing price, number of beds, number of baths, latitud
 
 <br></br>
 
-![Image1 of nytimes website](https://cloud.githubusercontent.com/assets/16641405/12249197/01292e80-b873-11e5-8920-a90f975c5adb.png)
+![Image1 of nytimes website](https://github.com/MDHRDY/A_NY_Times_Real_Estate_Web_Scraper/blob/master/ny_times_real_estate_home_page.png)
 
 <br></br>
 
