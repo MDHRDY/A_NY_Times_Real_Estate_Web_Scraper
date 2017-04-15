@@ -14,7 +14,7 @@ To run this program, run the following command at the command line:
 
 <pre><code>python nytimes_v2.py</code></pre>
 
-After the script begins, it will prompt you for a url. Copy and paste a url from the nytimes web page into the command prompt, and the scraper will pull listings off of the web and output data into the directory where the nytimes_v2 script is located. For the program to work, the last four characters of the url must end with '-asc' or 'desc'. Please see url in the following picture. 
+After the script begins, it will prompt you for a url. Copy and paste a url from the nytimes web page into the command prompt, and the scraper will pull listings off of the web, create an output file, and output data into your local directory. For the program to work, the last four characters of the url must end with '-asc' or 'desc'. Please see url in the following picture. 
 
 ![Image2 of nytimes website](https://github.com/MDHRDY/A_NY_Times_Real_Estate_Web_Scraper/blob/master/real_estate_search.png)
 
