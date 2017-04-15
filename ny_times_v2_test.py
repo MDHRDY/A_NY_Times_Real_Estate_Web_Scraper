@@ -5,7 +5,6 @@ from bs4 import BeautifulSoup
 import ny_times_v5 as nyt
 
 
-
 class NYTimesTestCase(unittest.TestCase):
     """Unit Tests for NYTimes Web Scraper"""       
         
