@@ -84,7 +84,6 @@ class NYTimesTestCase(unittest.TestCase):
         swp = nyt.single_web_page(self.soup_1)
         swp.extract_data()        
         self.assertEqual(
-            
             str(swp.soup.find_all("p", {"class": "listing-neighborhood"})[0]), \
                     '<p class="listing-neighborhood" data-city="New York">\n                West Village            </p>')
         
