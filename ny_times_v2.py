@@ -108,8 +108,3 @@ if __name__ == '__main__':
     f.close()
     print "\nPlease check the following file in this directory for listings:", output_file_name, "\n"
     
-    
-    
-    
-    
-    
